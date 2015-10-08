@@ -5,16 +5,16 @@ a:link,a:visited,.navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
-	color:#e74c3c;
+	color:#882D17;
 }
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
 
-background: #e74c3c;
+background: #882D17;
 }
 
 #page-contact{
-	background: #e74c3c;
+	background: #882D17;
 	color:#fff;
 }
 
@@ -28,6 +28,6 @@ background: #e74c3c;
 
 .btn.btn-default:hover,
 .btn.btn-default:active{
-    color:#e74c3c;
+    color:#882D17;
 }
 
